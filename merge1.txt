@@ -1,2 +1,6 @@
 HI Pasha
+<<<<<<< HEAD
 Hi sastry
+=======
+Hi Sastry
+>>>>>>> mergesort
